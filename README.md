@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-### Movie Guide App
+# Movie Guide App
 Movie Guide is a Next.js application that lists movies in different categories and provides detailed information about the selected movie. This application is built using Next.js v13 and offers a dynamic web experience that includes server-side rendering (SSR) and client-side rendering (CSR) techniques.
 
 
